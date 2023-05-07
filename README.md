@@ -2,8 +2,6 @@
 
 This page categorises [all past reports](https://code4rena.com/reports) from Code4rena. 
 
-[This](https://tom-sol.notion.site/Code4rena-report-categorized-dcce565a3ead49fba36ff0b912e1910a) is the notion version.
-
 And the amount of _**Medium**_ and **_High_** for each report is also listed. 
 
 In the bottom, there is the totals amounts of _**Medium**_ and **_High_** . 
@@ -141,6 +139,3 @@ I hope this helps your learning😌
 | Total | --- | 536 | 1008 | --- |
 
 
-**🙌 I would be happy to help you.**
-### _😌 Donate_
-0x237C8Aea434dE4784d23d145069c6D0Bef629A19
